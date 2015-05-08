@@ -1,0 +1,59 @@
+body{
+	width: 1250px;
+	background-color: lightgray;
+}
+h1{
+	font-size: 3.5em;
+	text-align: center;
+	margin-bottom: 6%;
+	font-family: 'Lobster Two', cursive;
+}
+h2{
+	font-size: 1.5em;
+	padding-top: 2%;
+	text-align: center;
+	font-family: 'Slabo 27px', serif;
+}
+.kader{
+	margin-left: 10%;
+	margin-top: 4%;
+}
+.kader1{
+	border: 10px groove dimgrey;
+	margin-bottom: 10%;
+	background: snow;
+}
+.kader2{
+	border: 10px groove dimgrey;
+	margin-bottom: 10%;
+	background: snow;
+
+}
+.kader3{
+	border: 10px groove dimgrey;
+	margin-bottom: 10%;
+	background: snow;
+
+}
+img{
+	padding-left: 8%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+p{
+	padding-left: 2%;
+	padding-bottom: 2%;
+	font-family: 'Slabo 27px', serif;
+	text-align: center;
+}
+button{
+	margin-left: 48%;
+	margin-bottom: 2%;
+	font-family: 'Slabo 27px', serif;
+}
+.onzichtbaar{
+	display: none;
+}
+.selected{
+	display: inline;
+}

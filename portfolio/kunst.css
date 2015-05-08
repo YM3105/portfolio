@@ -1,0 +1,57 @@
+body{
+	width: 950px;
+	background-color: snow;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.kader{
+	font-size: 1em;
+	margin-left: 35%;
+	margin-top: 15%;
+}
+.lijn{
+	width: 95%;
+	height: 0.25%;
+	margin-top: 6%;
+	background-color: lightgray;
+}
+.selected{
+	border-bottom: 0.5em;
+}
+.een{
+	margin-top: 3%;
+}
+.twee{
+	margin-top: 3%;
+}
+.drie{
+	margin-top: 3%;
+}
+li a{
+	font-size: 1em;
+	font-weight: bold;
+	text-decoration: none;
+	color: black;
+	background-color: snow;
+	border: none;
+	display: inline;
+}
+li{
+	display: inline;
+	margin-right: 4em;
+}
+.selected{
+	border-bottom: 0.5em solid black;
+	padding-bottom: 4.5%;
+}
+.knop1{
+	margin-top: 6%;
+}
+.knop2{
+	margin-top: 6%;
+}
+.knop3{
+	margin-top: 6%;
+}
+.onzichtbaar{
+	display: none;
+}
